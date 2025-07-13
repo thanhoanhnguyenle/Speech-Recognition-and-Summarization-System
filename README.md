@@ -1,5 +1,5 @@
 # Speech-Recognition-and-Summarization-System
-*This is a guided project from Dataquest*
+*Note: This is a guided project from Dataquest.*
 
 In this project, I'm going to build a speech recognition and summarization system that can be used for automatically transcribing audio files, such as lecture notes, podcasts, or videos, and turning them into a short summary. The project is run in local machine, using Windows Linux Subsystem. Here is the steps involved: 
 
@@ -13,7 +13,7 @@ In this project, I'm going to build a speech recognition and summarization syste
    The project require Python with version 3.8+.
    ```
    virtualenv speech-recognition
-   source speech*/bin/activate
+   source speech-recognition/bin/activate
    ```
 3. Install package:
    ```
